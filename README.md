@@ -92,7 +92,7 @@ The project is deployed online with the following URLs:
      npm run dev
      ```
 
-## Stripe Integration
+## Stripe Integration(UNDER development)
 
 Ensure you have your Stripe API keys set up in the `.env` file of the `backend` directory. Refer to the Stripe documentation for setting up and managing your API keys.
 
