@@ -22,12 +22,6 @@ A complete MERN stack application for food delivery, featuring Stripe integratio
 - `SAVE50`: ₹50 off
 - `SAVE75`: ₹75 off
 
-## Deployment
-
-The project is deployed online with the following URLs:
-
-- **Client Frontend**: [Tomato Food Delivery - Client](https://tomato-food-delivery-tanmay-312s-projects.vercel.app/)
-- **Admin Frontend and Backend**: Link not attached for safety and security purposes.
 
 ## Getting Started
 
